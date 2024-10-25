@@ -12,7 +12,7 @@ A streamlined setup script for Anthropic's Computer-Use Demo environment. This s
 - 🐳 Docker environment configuration
 - 💻 Cross-platform support (macOS, Linux)
 
-## Prerequisites
+## Prerequisites - (Any other dependencies will be downloaded via script)
 
 - Python 3.x
 - Internet connection

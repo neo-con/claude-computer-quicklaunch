@@ -22,7 +22,7 @@ A streamlined setup script for Anthropic's Computer-Use Demo environment. This s
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/anthropic-quickstart-automation.git
+git clone https://github.com/neo-con/claude-computer-quicklaunch.git
 ```
 
 2. Make the setup script executable:
